@@ -70,7 +70,7 @@
         "active": true,
         "title": "Angular Basics",
         "contentTitle": "Angular Basics",
-        "description": "Update description",
+        "description": "The basics of Typescript will help you to build strong foundations before starting with the Angular Framework. In this lecture, we will dive into Typescript fundamentals along with basic setup of Angular-cli",
         "lectures": "Lecture 1",
         "points": [
           "Typescript Basics",
@@ -83,7 +83,7 @@
       {
         "title": "Introduction to Components",
         "contentTitle": "Introduction to Components",
-        "description": "Update description",
+        "description": "Bindings are the building blocks of Angular. In this lecture, we will cover all types of bindings along with examples that will help us in understanding Components.  ",
         "lectures": "Lecture: 2",
         "points": [
           "Template Bindings",
@@ -96,7 +96,7 @@
         "title": "Components & Routing",
         "contentTitle": "Components & Routing",
         "description":
-          "Update description.",
+          "This lecture will focus on Angular Routings and will help to understand the logics behind parent and child routings.",
         "lectures": "Lecture 3",
         "points": [
           "Routing Basics",
@@ -108,7 +108,7 @@
         "title": "Directives and Pipes",
         "contentTitle": "Directives and Pipes",
         "description":
-          "Update description.",
+          "Whenever we manipulate DOM, we need to use Angular Directives. In this lecture we will learn how we can make custom directives and can use them in our components",
         "lectures": "Lecture 4",
         "points": [
           "Inbuilt Directives such as *ngIf, *ngFor",
@@ -122,7 +122,7 @@
         "contentTitle": "Understanding Forms",
         "description":
           "Update description",
-        "lectures": "Lecture 5",
+        "lectures": "Have you seen any website without forms. Most of the websites, we use today contains Form Elements, but how we can make these forms in Angular. This lecture will help you to understand forms along with their validations ",
         "points": [
           "Template Driven Forms, Input and Validation",
           "ngForm and ngModel",
@@ -135,7 +135,7 @@
         "contentTitle": "Services and HTTP",
         "lectures": "Lecture 6",
         "description":
-          "Update description",
+          "Interacting with an API is so easy if you are using Angular Services. In this lecture, we will cover Angular Services by making network requests to a REST API",
         "points": [
           "Dependency Injection and understanding @Injectable",
           "Understanding Observables",
